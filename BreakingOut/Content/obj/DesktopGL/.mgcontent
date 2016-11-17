@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/shaun/Documents/Visual Studio 2015/Projects/BreakingOut/BreakingOut/Content/ball.png</File>
+    <File>C:/Users/shaun/Documents/Visual Studio 2015/Projects/BreakingOut/BreakingOut/Content/paddle.png</File>
+    <File>C:/Users/shaun/Documents/Visual Studio 2015/Projects/BreakingOut/BreakingOut/Content/brick.png</File>
+    <File>C:/Users/shaun/Documents/Visual Studio 2015/Projects/BreakingOut/BreakingOut/Content/coin.png</File>
+    <File>C:/Users/shaun/Documents/Visual Studio 2015/Projects/BreakingOut/BreakingOut/Content/bounce.wav</File>
+    <File>C:/Users/shaun/Documents/Visual Studio 2015/Projects/BreakingOut/BreakingOut/Content/bump1.wav</File>
+    <File>C:/Users/shaun/Documents/Visual Studio 2015/Projects/BreakingOut/BreakingOut/Content/explosion1.wav</File>
+    <File>C:/Users/shaun/Documents/Visual Studio 2015/Projects/BreakingOut/BreakingOut/Content/explosion2.wav</File>
+    <File>C:/Users/shaun/Documents/Visual Studio 2015/Projects/BreakingOut/BreakingOut/Content/explosion3.wav</File>
+    <File>C:/Users/shaun/Documents/Visual Studio 2015/Projects/BreakingOut/BreakingOut/Content/explosion4.wav</File>
+    <File>C:/Users/shaun/Documents/Visual Studio 2015/Projects/BreakingOut/BreakingOut/Content/bump2.wav</File>
+    <File>C:/Users/shaun/Documents/Visual Studio 2015/Projects/BreakingOut/BreakingOut/Content/bump3.wav</File>
+    <File>C:/Users/shaun/Documents/Visual Studio 2015/Projects/BreakingOut/BreakingOut/Content/bump4.wav</File>
+  </SourceFiles>
+</SourceFileCollection>
